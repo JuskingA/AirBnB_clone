@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 """
 that deletes out-of-date archives,
 using the function do_clean
