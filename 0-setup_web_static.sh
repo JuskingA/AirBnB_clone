@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bash
 # Bash Script to Setup Airbnb Static_web 
 sudo apt-get update -y
 sudo apt-get updgrade -y
